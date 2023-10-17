@@ -1,4 +1,3 @@
-# Calculation-tool-via-nether
 ネザー経由の座標を簡単に計算できるツールです。
 
 【このソフトについて】
